@@ -1,6 +1,5 @@
 <template>
   <div id="game-container">
-    HareKrishna
   </div>
 </template>
 
